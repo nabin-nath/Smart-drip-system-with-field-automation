@@ -3,6 +3,11 @@
 
 * We are here using home automation in the greenhouses to reduce the labour and introducing drip system similar to smart irrigation to keep a check on health of plants
 * This project was developed in order to help farmers take better care of their plants just like mothers take care of their children. A smart drip irrigation system prototype was made using online simulation that injects the required medicinal fluid for the plant on shifting of the temperature of plant above or below a specified range. Moreover, an autonomous system was developed that help the care takers of greenhouses to control the light system using an android app from their locations
+<p align="center">
+    <img src="/Images/Smartdrip circuit.png" alt="Smartdrip-circuit">
+    <img src="/Images/homeAutomationcircuit.png" alt="HomeAutomation-circuit">
+    <img src="/Images/homeAutomationSimulation.png" alt="HomeAutomation-Simulation">
+</p>
 
 
 ## Problem it solves
