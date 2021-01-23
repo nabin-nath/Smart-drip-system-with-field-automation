@@ -22,7 +22,7 @@ In the future, thermal vision camera can be added for the best results and good 
 
 ## Challenges we faced
 
-Due to unavailability of hardware, online simulation was to be made to show the demo which included a more complex circuit design on Proteus. Using hardware, the circuit will be a little bit different and simple. Moreover, the communication between drip system and control device was not displayed due to online simulation. In brief, integrating both the concepts was difficult in online mode
+Due to unavailability of hardware, online simulation was to be made to show the demo which included a more complex circuit design on Proteus. Using hardware, the circuit will be a     little bit different and simple. Moreover, the communication between drip system and control device was not displayed due to online simulation. In brief, integrating both the concepts was difficult in online mode
 
 ## License
 
